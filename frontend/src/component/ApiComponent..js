@@ -16,6 +16,7 @@ const ApiComponent = () => {
     return (
         <div>
             {data}
+            <h1>test</h1>
         </div>
     );
 };
